@@ -1,0 +1,25 @@
+
+*{
+    outline: 2px solid red;
+}
+.container {
+    display:flex;
+    background-color: red;
+
+}
+
+.header {
+    flex-shrink: 1;
+}
+.one {
+    flex-grow: 1;
+}
+. two{
+    flex-grow: 1;
+}
+.three {
+    flex-grow: 1;
+}
+.footer {
+    flex-shrink: 1;
+}
